@@ -62,6 +62,10 @@ python3.11 qabot.py
 - Employs IBM's Slate 125M English embeddings model
 - Implements RAG using LangChain's RetrievalQA
 
+<img width="1297" alt="RAG BOT" src="https://github.com/user-attachments/assets/bdb0afe4-9129-49ce-88b3-9dd51104e24c" />
+
+
+
 ## Note
 
 For optimal performance, use moderately sized PDF documents. Large documents may not process successfully with the current configuration.
